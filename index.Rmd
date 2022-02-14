@@ -13,3 +13,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+Este es un sitio creado con r markdown,el paquete distill, el paquete postcard
+y desplegado en netlife
